@@ -25,5 +25,5 @@ https://youtu.be/QNALqOYP88k
 # Move 7
 # open cmd one folder away from public folder where .firebase file is present open cmd there and just press
 # firebase deploy
-#M ove 8
+# Move 8
 # test your form on live website yayyyy!!! it works
