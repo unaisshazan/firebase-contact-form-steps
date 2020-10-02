@@ -3,8 +3,8 @@ https://youtu.be/QNALqOYP88k
 ## Steps
 # your website must be live
 # Move 1 
-# create account in pageclip for contact form
-# but before creating account on pageclip you need to creat account
+# create an account in pageclip for contact form
+# but before creating account on pageclip you need to create an account
 # on github
 # https://github.com/
 # https://pageclip.co/
